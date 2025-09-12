@@ -8,7 +8,7 @@
 
 
 ##
-## ## Package / Window Manager / Openbox
+## ## Package / Desktop Environment / Openbox
 ##
 
 openbox
