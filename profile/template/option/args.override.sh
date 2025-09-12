@@ -51,7 +51,7 @@ REF_BUILD_VERSION="25.04"
 ## > for iso file name
 ##
 
-REF_BUILD_SUBJECT_NAME="ubuntu-xfce"
+REF_BUILD_SUBJECT_NAME="ubuntu-openbox"
 
 
 
@@ -62,7 +62,7 @@ REF_BUILD_SUBJECT_NAME="ubuntu-xfce"
 ## > for info
 ##
 
-REF_BUILD_SUBJECT_TITLE="Ubuntu Xfce"
+REF_BUILD_SUBJECT_TITLE="Ubuntu Openbox"
 
 
 
